@@ -1,4 +1,4 @@
-# . 📖 Sobre o Projeto
+# 1. Sobre o Projeto
 Este é um aplicativo desenvolvido em Flutter como parte de um projeto acadêmico. O objetivo principal é demonstrar a comunicação entre o Flutter e o código nativo da plataforma Android utilizando MethodChannel.
 
 O projeto segue o design pattern MVVM (Model-View-ViewModel) para garantir uma arquitetura limpa e organizada, separando as responsabilidades da interface, do estado e da lógica de comunicação com a plataforma nativa.
