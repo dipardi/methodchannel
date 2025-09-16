@@ -11,7 +11,7 @@ AlertDialog Nativo: Um segundo botão invoca um método nativo para exibir um Al
   # 3. Pacotes Utilizados
 provider: Utilizado para a implementação do padrão MVVM, gerenciando o estado e a comunicação entre a View e o ViewModel.
 
-# 4 Como Baixar e Usar
+# 4. Como Baixar e Usar
 Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Na página do repositório no GitHub, clique no botão verde < > Code.
@@ -26,7 +26,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 6. Aguarde o Android Studio carregar o projeto. Em seguida, pressione o botão Run 'main.dart' (o ícone de play verde ▶️) para executar o aplicativo.
 
-# 5 Como Baixar e Usar
+# 5. Como Baixar e Usar
 A comunicação é feita através de um MethodChannel
 
 Flutter (Dart): Uma classe de serviço (ServicoNativo) invoca métodos (invokeMethod) no canal, enviando o nome da função desejada (ex: "mostrarToast") e os argumentos necessários (ex: a mensagem do Toast).
